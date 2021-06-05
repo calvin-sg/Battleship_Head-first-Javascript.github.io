@@ -1,11 +1,11 @@
 # Battleship game 
 Self-directed learning on Head First JavaScript programming, 
-with my own understanding illustrated in verbose comments along the javascript code.
+with my own understanding illustrated in verbose notes/comments along the javascript code.
 
-All assets, Javascript, HTML, CSS codes referenced from the physical book and website.
+All media assets, Javascript, HTML, CSS codes are referenced from the physical book and website.
 
 ## Reference: 
-1. Proof of concept site: [lcalvin.com/battleship](https://lcalvin.com/battleship/)
+1. Proof of concept site: [battleship.lcalvin.com](https://battleship.lcalvin.com/)
 2. Freeman, E. and Robson, E., 2014. 
    Head First JavaScript programming. 1st ed. 
    Sebastopol, California, United States of America:
