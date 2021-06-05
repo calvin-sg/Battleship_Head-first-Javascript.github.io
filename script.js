@@ -176,7 +176,7 @@ var controller = {
             if (hit && // if userGuess is a hit and
                 model.shipSunk === model.numShips) { // number of ships sunk is equals to number of ships on the board
 
-                view.displayMessage("All ships on the board is sunk, in " + this.countGuesses + " guesses");
+                view.displayMessage("All ships on the board is sunk, in " + this.countGuesses + " guesses. Refresh the page to try again!");
 
                 // disables form input and button after game over
                 var userGuessInput = document.getElementById("guessInput");
