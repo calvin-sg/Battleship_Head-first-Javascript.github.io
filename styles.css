@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+/* Ensures game board stays in the middle of the page */
+div#block {
+    position: relative; /* Positions table relative to this div element */
+    width: 1024px;
+    height: 863px;
+    margin: auto;
+    background: url("media/board.jpg") no-repeat;
+}
+div#messageArea {
+    position: absolute;
+    top: 0px; /* top left of webpage */
+    left: 0px;
+    color: rgb(83, 175, 19);
+}
+table {
+    position: absolute;
+    left: 173px; /* aligns with grid of background image */
+    top: 98px;
+    border-spacing: 0px;
+}
+td {
+    width: 94px; /* cells of <table> matches up with cells of grid */
+    height: 94px;
+}
+form {
+    position: absolute;
+    bottom: 0px; /* form at bottom right of webpage */
+    right: 0px;
+    padding: 15px;
+    background-color: rgb(83, 175, 19);;
+}
+form input {
+    background-color: #98cf71;
+    border-color: rgb(83, 175, 19);
+    font-size: 1em;
+}
+.hit { /* When element is in hit/miss class, show respective background image */
+    background: url("media/ship.png") no-repeat center center;
+}
+.miss {
+    background: url("media/miss.png") no-repeat center center;
+}
