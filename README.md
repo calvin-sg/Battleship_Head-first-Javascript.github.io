@@ -1,6 +1,20 @@
 # Battleship game 
 Proof of concept site: [battleship.lcalvin.com](https://battleship.lcalvin.com/)
 
+This project uses MVC framework within its Javascript code, separating the logic and presentation layer behind Battleship web app into 3 logical components:
+
+Model
+- Contains game logic and data. 
+- Keeps state of game, contains logic relates to state changes.
+
+View: 
+- Presents data to user and handles user interaction. 
+- Keep display up to date with messages, hits and misses
+
+Controller: 
+- Interface between Model and View components.
+- Keeps tracks of user's guess, progress, user input and brings to model
+
 Self-directed learning on Head First JavaScript programming, 
 with my own understanding illustrated in comprehensive notes/comments along the javascript code.
 
