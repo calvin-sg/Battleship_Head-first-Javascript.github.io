@@ -1,5 +1,5 @@
 # Battleship game 
-Proof of concept site: [battleship.lcalvin.com](https://battleship.lcalvin.com/)
+Proof of concept site: [battleship.calvin.sg](https://battleship.calvin.sg/)
 
 This project uses MVC framework within its Javascript code, separating the logic and presentation layer behind Battleship web app into 3 logical components:
 
@@ -34,5 +34,5 @@ Hosted here on GitHub pages, no WordPress or Jekyll template required!
    [Accessed 5 June 2021].
 
 ## Check out my other works hosted on GitHub pages here!
-[slickshots.lcalvin.com](https://slickshots.lcalvin.com/)  
-[diving.lcalvin.com](https://diving.lcalvin.com/)
+[slickshots.calvin.sg](https://slickshots.calvin.sg/)  
+[diving.calvin.sg](https://diving.calvin.sg/)
